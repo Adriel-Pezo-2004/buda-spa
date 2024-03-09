@@ -1,8 +1,6 @@
 import { Link } from "react-router-dom";
 
-interface Props {}
-
-const Inicio = (props: Props) => (
+const Inicio = () => (
   <section className="Home">
     <h3>Hello Home</h3>
     <nav>
